@@ -8,6 +8,6 @@ while [ $endTime -le $length ]; do
 #statements
     i=$[$i+1]
     endTime=$[$startTime+840]
-    ./ffmpeg -ss $startTime -to $endTime -accurate_seek -i $1 -codec copy -avoid_negative_ts 1 ${file%.*}$i.mp4
+    ./ffmpeg -ss $startTime -to $endTime -i $1 -codec copy ${file%.*}$i.mp4
     startTime=$[endTime]
 done
