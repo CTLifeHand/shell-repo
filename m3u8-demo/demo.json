@@ -1,0 +1,41 @@
+{
+    "playlist": {
+        "ld": {
+            "width": 640,
+            "format": "mp4",
+            "play_url": "https://vdn.vzuu.com/LD/356dd31c-41e2-11e8-bd36-0242ac112a1b.mp4?auth_key=1542079538-0-0-fb94f7e9942d9bb68c53d2b0e62ffdd7&expiration=1542079538&disable_local_cache=1",
+            "duration": 43,
+            "size": 2885290,
+            "bitrate": 525,
+            "height": 368
+        },
+        "hd": {
+            "width": 640,
+            "format": "mp4",
+            "play_url": "https://vdn.vzuu.com/LD/356dd31c-41e2-11e8-bd36-0242ac112a1b.mp4?auth_key=1542079538-0-0-fb94f7e9942d9bb68c53d2b0e62ffdd7&expiration=1542079538&disable_local_cache=1",
+            "duration": 43,
+            "size": 2885290,
+            "bitrate": 525,
+            "height": 368
+        },
+        "sd": {
+            "width": 640,
+            "format": "mp4",
+            "play_url": "https://vdn.vzuu.com/LD/356dd31c-41e2-11e8-bd36-0242ac112a1b.mp4?auth_key=1542079538-0-0-fb94f7e9942d9bb68c53d2b0e62ffdd7&expiration=1542079538&disable_local_cache=1",
+            "duration": 43,
+            "size": 2885290,
+            "bitrate": 525,
+            "height": 368
+        }
+    },
+    "title": "",
+    "duration": 43,
+    "cover_info": {
+        "width": 640,
+        "thumbnail": "https://pic4.zhimg.com/80/v2-0d82ac26bd8b79e2b8ecfcc738627dbb_b.jpg",
+        "height": 368
+    },
+    "type": "video",
+    "id": "969513558178009088",
+    "misc_info": {}
+}

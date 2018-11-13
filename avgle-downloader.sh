@@ -1,0 +1,1 @@
+python getM3u8.py "https://avgle.com/video/N_DTVTaUMTQ/fellatiojapan-234-%E6%98%9F%E5%B7%9D%E3%81%86%E3%81%84%E3%81%8B" 1.m3u8
