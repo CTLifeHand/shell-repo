@@ -1,0 +1,6 @@
+rtmp://28365.liveplay.myqcloud.com/live/28365_1541659655867_1_1
+http://28365.liveplay.myqcloud.com/live/28365_1541659655867_1_1.flv
+http://28365.liveplay.myqcloud.com/live/28365_1541659655867_1_1.m3u8
+
+播放demo
+http://ksplayer.video.ksyun.com/v1/index.html

@@ -1,0 +1,117 @@
+{
+    "extra": {
+        "referer": "http://v.youku.com",
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+    },
+    "site": "优酷 (Youku)",
+    "streams": {
+        "3gphd": {
+            "container": "mp4",
+            "m3u8_url": "http://pl-ali.youku.com/playlist/m3u8?vid=XMzQ5ODAxMDQ0MA&type=mp4&ups_client_netip=0edd6197&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&ccode=0516&psid=8253592591d2573e1c51ff98870db02d&duration=388&expire=18000&drm_type=1&drm_device=0&ups_ts=1542096500&onOff=0&encr=0&ups_key=51e3863f672f3093b287afca4f3d31d6",
+            "pieces": [
+                {
+                    "segs": [
+                        {
+                            "cdn_url": "http://222.216.189.238/6975C2E87E74A83FAB4E7051E1/03002001005ABE072E0DC8530DB1FD873F0BB2-C73D-43D4-A2FF-214CFB2BA864.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=A013942008de787ed8544970c6ae975dc&sp=",
+                            "fileid": "03002001005ABE072E0DC8530DB1FD873F0BB2-C73D-43D4-A2FF-214CFB2BA864",
+                            "key": "f9702f00c5a7589124139bd8",
+                            "secret": "6975C2E87E74A83FAB4E7051E1",
+                            "size": 13555219,
+                            "total_milliseconds_audio": 388816,
+                            "total_milliseconds_video": 388520
+                        }
+                    ]
+                }
+            ],
+            "size": 13555219,
+            "src": [
+                "http://vali.cp31.ott.cibntv.net/6975C2E87E74A83FAB4E7051E1/03002001005ABE072E0DC8530DB1FD873F0BB2-C73D-43D4-A2FF-214CFB2BA864.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=A013942008de787ed8544970c6ae975dc&sp="
+            ],
+            "video_profile": "渣清"
+        },
+        "mp4hd": {
+            "container": "mp4",
+            "m3u8_url": "http://pl-ali.youku.com/playlist/m3u8?vid=XMzQ5ODAxMDQ0MA&type=hd&ups_client_netip=0edd6197&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&ccode=0516&psid=8253592591d2573e1c51ff98870db02d&duration=388&expire=18000&drm_type=1&drm_device=0&ups_ts=1542096500&onOff=0&encr=0&ups_key=51e3863f672f3093b287afca4f3d31d6",
+            "pieces": [
+                {
+                    "segs": [
+                        {
+                            "cdn_url": "http://118.180.19.185/6572C7B05333B82A47924223AE/03000801005ABE072E0DC8530DB1FD7DFD1C2A-EA3D-414B-9C8E-07B8CE5AEE97.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Ab39b91f507931562ef3242b39d7a9d22&sp=",
+                            "fileid": "03000801005ABE072E0DC8530DB1FD7DFD1C2A-EA3D-414B-9C8E-07B8CE5AEE97",
+                            "key": "f9702f00c5a7589124139bd8",
+                            "secret": "6572C7B05333B82A47924223AE",
+                            "size": 28945992,
+                            "total_milliseconds_audio": 388679,
+                            "total_milliseconds_video": 388520
+                        }
+                    ]
+                }
+            ],
+            "size": 28945992,
+            "src": [
+                "http://vali.cp31.ott.cibntv.net/6572C7B05333B82A47924223AE/03000801005ABE072E0DC8530DB1FD7DFD1C2A-EA3D-414B-9C8E-07B8CE5AEE97.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Ab39b91f507931562ef3242b39d7a9d22&sp="
+            ],
+            "video_profile": "高清"
+        },
+        "mp4hd2v2": {
+            "container": "mp4",
+            "m3u8_url": "http://pl-ali.youku.com/playlist/m3u8?vid=XMzQ5ODAxMDQ0MA&type=hd2&ups_client_netip=0edd6197&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&ccode=0516&psid=8253592591d2573e1c51ff98870db02d&duration=388&expire=18000&drm_type=1&drm_device=0&ups_ts=1542096500&onOff=0&encr=0&ups_key=51e3863f672f3093b287afca4f3d31d6",
+            "pieces": [
+                {
+                    "segs": [
+                        {
+                            "cdn_url": "http://222.216.189.237/6572F7CC8B43E83533F7A92C90/03000B02005ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027.mp4?ccode=0516&duration=200&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Adc90259c7b1901cf4bac1f5352b31646&sp=",
+                            "fileid": "03000B02005ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027",
+                            "key": "faa7513ed96c0e86282dc0f8",
+                            "secret": "6572F7CC8B43E83533F7A92C90",
+                            "size": 26892928,
+                            "total_milliseconds_audio": 200829,
+                            "total_milliseconds_video": 200840
+                        },
+                        {
+                            "cdn_url": "http://171.107.83.175/677531A55B33C81A3DECF543F6/03000B02015ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027.mp4?ccode=0516&duration=187&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=A4a6fd0a9444d5f9f15beb4fda003c04d&sp=",
+                            "fileid": "03000B02015ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027",
+                            "key": "6d0fd3b92ae9671424139bd8",
+                            "secret": "677531A55B33C81A3DECF543F6",
+                            "size": 20296697,
+                            "total_milliseconds_audio": 187850,
+                            "total_milliseconds_video": 187680
+                        }
+                    ]
+                }
+            ],
+            "size": 47189625,
+            "src": [
+                "http://vali.cp31.ott.cibntv.net/6572F7CC8B43E83533F7A92C90/03000B02005ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027.mp4?ccode=0516&duration=200&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Adc90259c7b1901cf4bac1f5352b31646&sp=",
+                "http://vali.cp31.ott.cibntv.net/677531A55B33C81A3DECF543F6/03000B02015ABE072E0DC8530DB1FD57123997-3BB8-4213-A895-1E36243B4027.mp4?ccode=0516&duration=187&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=A4a6fd0a9444d5f9f15beb4fda003c04d&sp="
+            ],
+            "video_profile": "超清"
+        },
+        "mp4sd": {
+            "container": "mp4",
+            "m3u8_url": "http://pl-ali.youku.com/playlist/m3u8?vid=XMzQ5ODAxMDQ0MA&type=flv&ups_client_netip=0edd6197&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&ccode=0516&psid=8253592591d2573e1c51ff98870db02d&duration=388&expire=18000&drm_type=1&drm_device=0&ups_ts=1542096500&onOff=0&encr=0&ups_key=51e3863f672f3093b287afca4f3d31d6",
+            "pieces": [
+                {
+                    "segs": [
+                        {
+                            "cdn_url": "http://118.180.19.23/6975FB38B464D837666C3E3115/03000A01005ABE072E0DC8530DB1FDA26EC3B4-BC6A-4AE3-AA09-38951167B7B9.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Afe2247500cf43abcb06878ea26197544&sp=",
+                            "fileid": "03000A01005ABE072E0DC8530DB1FDA26EC3B4-BC6A-4AE3-AA09-38951167B7B9",
+                            "key": "f9702f00c5a7589124139bd8",
+                            "secret": "6975FB38B464D837666C3E3115",
+                            "size": 17864658,
+                            "total_milliseconds_audio": 388679,
+                            "total_milliseconds_video": 388520
+                        }
+                    ]
+                }
+            ],
+            "size": 17864658,
+            "src": [
+                "http://vali.cp31.ott.cibntv.net/6975FB38B464D837666C3E3115/03000A01005ABE072E0DC8530DB1FDA26EC3B4-BC6A-4AE3-AA09-38951167B7B9.mp4?ccode=0516&duration=388&expire=18000&psid=8253592591d2573e1c51ff98870db02d&ups_client_netip=0edd6197&ups_ts=1542096500&ups_userid=&utid=cHRxFN%2BU%2BQ4CAQ7dYZfQ99zg&vid=XMzQ5ODAxMDQ0MA&vkey=Afe2247500cf43abcb06878ea26197544&sp="
+            ],
+            "video_profile": "标清"
+        }
+    },
+    "title": "不用闪光灯也能拍夜景？！",
+    "url": "https://v.youku.com/v_show/id_XMzQ5ODAxMDQ0MA==.html?spm=a2hzp.8244740.0.0"
+}
