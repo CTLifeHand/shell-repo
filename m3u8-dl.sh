@@ -2,4 +2,4 @@
 # index.m3u8 -> http://wscdn.alhls.xiaoka.tv/201713/b4b/079/F69oXuFHQ7Wn0YFW/index.m3u8 (Error writing trailer of video1.mp4: Immediate exit requested)
 # m3u8.m3u
 
-./ffmpeg -i "http://wscdn.alhls.xiaoka.tv/201713/b4b/079/F69oXuFHQ7Wn0YFW/index.m3u8" -c copy video1.mp4
+./ffmpeg -i "http://video.qqdaiguaxitong.com:8091/9720180601/972018063017/650kb/hls/index.m3u8" -c copy video1.mp4
